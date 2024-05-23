@@ -92,3 +92,9 @@ like the 8-position `SR1712F-0108` which can also be dropped in directly. (As-is
 & 8th positions will cause the baseline voltage to float and the output will be undefined
 when the switch is in either of these positions; you could cause the output to be defined
 by simply connecting those two pins of the switch to ground.)
+
+License
+-------
+The voltage reference calibration tool © 2024 by Aaron Kimball is licensed under CC BY-SA
+4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
+
