@@ -7,6 +7,10 @@ of exponential converters in VCOs, VCFs, etc.
 
 Also usable as a manual GATE/TRIGGER signal generator.
 
+View drawings online:
+* [Schematic](https://github.com/kimballa/voltage-ref-cal/blob/main/schematic-rev1.pdf)
+* [PCB](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fkimballa%2Fvoltage-ref-cal%2Fblob%2Fmain%2Fvoltage%2520ref%2520calibration%2520tool.kicad_pcb)
+
 Operation
 ---------
 
