@@ -5386,7 +5386,7 @@
 		)
 		(uuid "58a4ad79-9d8e-45ca-a6a4-80af8cf9221a")
 	)
-	(text "Octave select switch (radial sw.)"
+	(text "Octave select switch (rotary sw.)"
 		(exclude_from_sim no)
 		(at 43.18 16.51 0)
 		(effects
@@ -10824,46 +10824,46 @@
 			)
 		)
 		(pin "12"
-			(uuid "26b23ef5-d2c0-4414-b138-493e9638227d")
+			(uuid "26b23ef5-d2c0-4414-b138-493e9638227e")
 		)
 		(pin "8"
-			(uuid "67915cd2-74f6-4a88-a24f-eaabd0c238ab")
+			(uuid "67915cd2-74f6-4a88-a24f-eaabd0c238ac")
 		)
 		(pin "13"
-			(uuid "12251e4e-6cf7-4774-ac49-170e20f5b5a9")
+			(uuid "12251e4e-6cf7-4774-ac49-170e20f5b5aa")
 		)
 		(pin "6"
-			(uuid "ef4fbb3e-a2d0-4ac6-8c49-3d1467d54683")
+			(uuid "ef4fbb3e-a2d0-4ac6-8c49-3d1467d54684")
 		)
 		(pin "14"
-			(uuid "caf64d2e-ca30-4311-91d0-f0922b8b6b78")
+			(uuid "caf64d2e-ca30-4311-91d0-f0922b8b6b79")
 		)
 		(pin "5"
-			(uuid "a63d44cb-0f2d-4480-95a3-ba7a5475c950")
+			(uuid "a63d44cb-0f2d-4480-95a3-ba7a5475c951")
 		)
 		(pin "9"
-			(uuid "3dd6b89a-d076-40e8-8c11-8ed453a0e821")
+			(uuid "3dd6b89a-d076-40e8-8c11-8ed453a0e822")
 		)
 		(pin "11"
-			(uuid "8e13687a-3801-4e88-8007-d7a14f2c76ef")
+			(uuid "8e13687a-3801-4e88-8007-d7a14f2c76f0")
 		)
 		(pin "2"
-			(uuid "78dcb44c-c48d-44b6-879b-7126687bc1d1")
+			(uuid "78dcb44c-c48d-44b6-879b-7126687bc1d2")
 		)
 		(pin "1"
-			(uuid "f7cdb60d-b15d-4a5d-a303-d25224ee22b8")
+			(uuid "f7cdb60d-b15d-4a5d-a303-d25224ee22b9")
 		)
 		(pin "3"
-			(uuid "c912b1d7-1e28-4af7-816c-19ee70f8b9b6")
+			(uuid "c912b1d7-1e28-4af7-816c-19ee70f8b9b7")
 		)
 		(pin "7"
-			(uuid "cc417c26-2516-4190-a233-7e9a65312520")
+			(uuid "cc417c26-2516-4190-a233-7e9a65312521")
 		)
 		(pin "10"
-			(uuid "fb0acabc-87c5-4a05-87a0-83e06ae1f4c9")
+			(uuid "fb0acabc-87c5-4a05-87a0-83e06ae1f4ca")
 		)
 		(pin "4"
-			(uuid "43e28399-3932-49bf-8835-12cefc5a5d75")
+			(uuid "43e28399-3932-49bf-8835-12cefc5a5d76")
 		)
 		(instances
 			(project "voltage ref calibration tool"
@@ -11737,46 +11737,46 @@
 			)
 		)
 		(pin "12"
-			(uuid "26b23ef5-d2c0-4414-b138-493e9638227d")
+			(uuid "26b23ef5-d2c0-4414-b138-493e9638227f")
 		)
 		(pin "8"
-			(uuid "67915cd2-74f6-4a88-a24f-eaabd0c238ab")
+			(uuid "67915cd2-74f6-4a88-a24f-eaabd0c238ad")
 		)
 		(pin "13"
-			(uuid "12251e4e-6cf7-4774-ac49-170e20f5b5a9")
+			(uuid "12251e4e-6cf7-4774-ac49-170e20f5b5ab")
 		)
 		(pin "6"
-			(uuid "ef4fbb3e-a2d0-4ac6-8c49-3d1467d54683")
+			(uuid "ef4fbb3e-a2d0-4ac6-8c49-3d1467d54685")
 		)
 		(pin "14"
-			(uuid "caf64d2e-ca30-4311-91d0-f0922b8b6b78")
+			(uuid "caf64d2e-ca30-4311-91d0-f0922b8b6b7a")
 		)
 		(pin "5"
-			(uuid "a63d44cb-0f2d-4480-95a3-ba7a5475c950")
+			(uuid "a63d44cb-0f2d-4480-95a3-ba7a5475c952")
 		)
 		(pin "9"
-			(uuid "3dd6b89a-d076-40e8-8c11-8ed453a0e821")
+			(uuid "3dd6b89a-d076-40e8-8c11-8ed453a0e823")
 		)
 		(pin "11"
-			(uuid "8e13687a-3801-4e88-8007-d7a14f2c76ef")
+			(uuid "8e13687a-3801-4e88-8007-d7a14f2c76f1")
 		)
 		(pin "2"
-			(uuid "78dcb44c-c48d-44b6-879b-7126687bc1d1")
+			(uuid "78dcb44c-c48d-44b6-879b-7126687bc1d3")
 		)
 		(pin "1"
-			(uuid "f7cdb60d-b15d-4a5d-a303-d25224ee22b8")
+			(uuid "f7cdb60d-b15d-4a5d-a303-d25224ee22ba")
 		)
 		(pin "3"
-			(uuid "c912b1d7-1e28-4af7-816c-19ee70f8b9b6")
+			(uuid "c912b1d7-1e28-4af7-816c-19ee70f8b9b8")
 		)
 		(pin "7"
-			(uuid "cc417c26-2516-4190-a233-7e9a65312520")
+			(uuid "cc417c26-2516-4190-a233-7e9a65312522")
 		)
 		(pin "10"
-			(uuid "fb0acabc-87c5-4a05-87a0-83e06ae1f4c9")
+			(uuid "fb0acabc-87c5-4a05-87a0-83e06ae1f4cb")
 		)
 		(pin "4"
-			(uuid "43e28399-3932-49bf-8835-12cefc5a5d75")
+			(uuid "43e28399-3932-49bf-8835-12cefc5a5d77")
 		)
 		(instances
 			(project "voltage ref calibration tool"
@@ -13726,46 +13726,46 @@
 			)
 		)
 		(pin "12"
-			(uuid "26b23ef5-d2c0-4414-b138-493e9638227d")
+			(uuid "26b23ef5-d2c0-4414-b138-493e96382280")
 		)
 		(pin "8"
-			(uuid "67915cd2-74f6-4a88-a24f-eaabd0c238ab")
+			(uuid "67915cd2-74f6-4a88-a24f-eaabd0c238ae")
 		)
 		(pin "13"
-			(uuid "12251e4e-6cf7-4774-ac49-170e20f5b5a9")
+			(uuid "12251e4e-6cf7-4774-ac49-170e20f5b5ac")
 		)
 		(pin "6"
-			(uuid "ef4fbb3e-a2d0-4ac6-8c49-3d1467d54683")
+			(uuid "ef4fbb3e-a2d0-4ac6-8c49-3d1467d54686")
 		)
 		(pin "14"
-			(uuid "caf64d2e-ca30-4311-91d0-f0922b8b6b78")
+			(uuid "caf64d2e-ca30-4311-91d0-f0922b8b6b7b")
 		)
 		(pin "5"
-			(uuid "a63d44cb-0f2d-4480-95a3-ba7a5475c950")
+			(uuid "a63d44cb-0f2d-4480-95a3-ba7a5475c953")
 		)
 		(pin "9"
-			(uuid "3dd6b89a-d076-40e8-8c11-8ed453a0e821")
+			(uuid "3dd6b89a-d076-40e8-8c11-8ed453a0e824")
 		)
 		(pin "11"
-			(uuid "8e13687a-3801-4e88-8007-d7a14f2c76ef")
+			(uuid "8e13687a-3801-4e88-8007-d7a14f2c76f2")
 		)
 		(pin "2"
-			(uuid "78dcb44c-c48d-44b6-879b-7126687bc1d1")
+			(uuid "78dcb44c-c48d-44b6-879b-7126687bc1d4")
 		)
 		(pin "1"
-			(uuid "f7cdb60d-b15d-4a5d-a303-d25224ee22b8")
+			(uuid "f7cdb60d-b15d-4a5d-a303-d25224ee22bb")
 		)
 		(pin "3"
-			(uuid "c912b1d7-1e28-4af7-816c-19ee70f8b9b6")
+			(uuid "c912b1d7-1e28-4af7-816c-19ee70f8b9b9")
 		)
 		(pin "7"
-			(uuid "cc417c26-2516-4190-a233-7e9a65312520")
+			(uuid "cc417c26-2516-4190-a233-7e9a65312523")
 		)
 		(pin "10"
-			(uuid "fb0acabc-87c5-4a05-87a0-83e06ae1f4c9")
+			(uuid "fb0acabc-87c5-4a05-87a0-83e06ae1f4cc")
 		)
 		(pin "4"
-			(uuid "43e28399-3932-49bf-8835-12cefc5a5d75")
+			(uuid "43e28399-3932-49bf-8835-12cefc5a5d78")
 		)
 		(instances
 			(project "voltage ref calibration tool"
@@ -15071,46 +15071,46 @@
 			)
 		)
 		(pin "12"
-			(uuid "26b23ef5-d2c0-4414-b138-493e9638227d")
+			(uuid "26b23ef5-d2c0-4414-b138-493e96382281")
 		)
 		(pin "8"
-			(uuid "67915cd2-74f6-4a88-a24f-eaabd0c238ab")
+			(uuid "67915cd2-74f6-4a88-a24f-eaabd0c238af")
 		)
 		(pin "13"
-			(uuid "12251e4e-6cf7-4774-ac49-170e20f5b5a9")
+			(uuid "12251e4e-6cf7-4774-ac49-170e20f5b5ad")
 		)
 		(pin "6"
-			(uuid "ef4fbb3e-a2d0-4ac6-8c49-3d1467d54683")
+			(uuid "ef4fbb3e-a2d0-4ac6-8c49-3d1467d54687")
 		)
 		(pin "14"
-			(uuid "caf64d2e-ca30-4311-91d0-f0922b8b6b78")
+			(uuid "caf64d2e-ca30-4311-91d0-f0922b8b6b7c")
 		)
 		(pin "5"
-			(uuid "a63d44cb-0f2d-4480-95a3-ba7a5475c950")
+			(uuid "a63d44cb-0f2d-4480-95a3-ba7a5475c954")
 		)
 		(pin "9"
-			(uuid "3dd6b89a-d076-40e8-8c11-8ed453a0e821")
+			(uuid "3dd6b89a-d076-40e8-8c11-8ed453a0e825")
 		)
 		(pin "11"
-			(uuid "8e13687a-3801-4e88-8007-d7a14f2c76ef")
+			(uuid "8e13687a-3801-4e88-8007-d7a14f2c76f3")
 		)
 		(pin "2"
-			(uuid "78dcb44c-c48d-44b6-879b-7126687bc1d1")
+			(uuid "78dcb44c-c48d-44b6-879b-7126687bc1d5")
 		)
 		(pin "1"
-			(uuid "f7cdb60d-b15d-4a5d-a303-d25224ee22b8")
+			(uuid "f7cdb60d-b15d-4a5d-a303-d25224ee22bc")
 		)
 		(pin "3"
-			(uuid "c912b1d7-1e28-4af7-816c-19ee70f8b9b6")
+			(uuid "c912b1d7-1e28-4af7-816c-19ee70f8b9ba")
 		)
 		(pin "7"
-			(uuid "cc417c26-2516-4190-a233-7e9a65312520")
+			(uuid "cc417c26-2516-4190-a233-7e9a65312524")
 		)
 		(pin "10"
-			(uuid "fb0acabc-87c5-4a05-87a0-83e06ae1f4c9")
+			(uuid "fb0acabc-87c5-4a05-87a0-83e06ae1f4cd")
 		)
 		(pin "4"
-			(uuid "43e28399-3932-49bf-8835-12cefc5a5d75")
+			(uuid "43e28399-3932-49bf-8835-12cefc5a5d79")
 		)
 		(instances
 			(project "voltage ref calibration tool"
