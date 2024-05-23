@@ -21071,8 +21071,32 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "© 2024 by Aaron Kimball\nLicensed under CC BY-SA 4.0.\nhttps://creativecommons.org/licenses/by-sa/4.0/"
+		(at 179.832 179.578 0)
+		(layer "Dwgs.User")
+		(uuid "3e2d82f9-93cd-4062-91c9-31596bb7f072")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "May 2024"
+		(at 206.121 193.167 0)
+		(layer "Dwgs.User")
+		(uuid "d76c3999-d8a3-4789-bbdb-69f50a9176c7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "PRECISION VOLTAGE REFERENCE CALIBRATION TOOL\n"
-		(at 231.394 174.244 0)
+		(at 229.235 168.529 0)
 		(layer "Dwgs.User")
 		(uuid "fbc3ffd5-b55b-406c-9497-b3b7cca6f465")
 		(effects

@@ -5364,6 +5364,16 @@
 		)
 		(uuid "ff86b6a3-bd11-41b9-a31f-1153ae73a6da")
 	)
+	(text "May 2024"
+		(exclude_from_sim no)
+		(at 212.217 193.421 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "250665e8-d7d7-4d13-8ae4-d920408baf59")
+	)
 	(text "Trim pot nominal setting 530R\nUsed to trim effective ref voltage"
 		(exclude_from_sim no)
 		(at 95.25 95.25 0)
@@ -5421,6 +5431,16 @@
 		)
 		(uuid "80ad4e07-3203-47c3-91f6-6416c35612ee")
 	)
+	(text "1"
+		(exclude_from_sim no)
+		(at 270.129 193.294 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8d2e73e8-3fcf-49eb-8567-8d8027b72299")
+	)
 	(text "Octave select switch 1V/oct\n6 Octave range\n"
 		(exclude_from_sim no)
 		(at 74.93 46.99 0)
@@ -5431,6 +5451,17 @@
 			(justify left bottom)
 		)
 		(uuid "b3520295-aa93-4163-9c68-ecb8e30656fa")
+	)
+	(text "© 2024 by Aaron Kimball\nLicensed under CC BY-SA 4.0.\nhttps://creativecommons.org/licenses/by-sa/4.0/"
+		(exclude_from_sim no)
+		(at 233.934 170.942 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b6ef2648-1862-409d-a7b7-f85b9d39a3c7")
 	)
 	(text "Adjust trim until TP5 is 5.000 V"
 		(exclude_from_sim no)
@@ -5443,9 +5474,9 @@
 		)
 		(uuid "bbfbc425-90a6-4048-a6a8-429a60507a50")
 	)
-	(text "Calibration tool for exponential converters, VCOs, VCFs, etc.\nAlso workas as a manual GATE/TRIGGER generator."
+	(text "Calibration tool for exponential converters, VCOs, VCFs, etc.\nAlso works as a manual GATE/TRIGGER generator."
 		(exclude_from_sim no)
-		(at 190.5 176.53 0)
+		(at 178.181 178.562 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5456,7 +5487,7 @@
 	)
 	(text "Voltage reference generator"
 		(exclude_from_sim no)
-		(at 218.44 170.18 0)
+		(at 204.851 169.926 0)
 		(effects
 			(font
 				(size 2.54 2.54)
